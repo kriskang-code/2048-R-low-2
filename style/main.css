@@ -48,7 +48,9 @@ h1.title {
     opacity: 0; } }
 .scores-container {
   float: right;
-  text-align: right; }
+  text-align: right;
+  position: relative; 
+}
 
 .score-container, .best-container {
   position: relative;
@@ -756,3 +758,4 @@ hr {
     margin-top: 90px !important; }
   .game-message .lower {
     margin-top: 30px !important; } }
+f
